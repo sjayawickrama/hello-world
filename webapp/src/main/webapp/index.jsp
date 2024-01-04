@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>KBS New user Register for DevOps Tech Talk with Fazir Fhamy </h1>
+    <h1>KBS New user Register for DevOps Tech Talk with Fazir Fhamy Chris </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
