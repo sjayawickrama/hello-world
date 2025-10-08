@@ -238,5 +238,8 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:sjayawickrama/hello-world.git</connection>
-    <developerConnection>scm
+  <connection>scm:git:git@github.com:sjayawickrama/hello-world.git</connection>
+  <developerConnection>scm:git:git@github.com:sjayawickrama/hello-world.git</developerConnection>
+  <url>https://github.com/sjayawickrama/hello-world</url>
+  </scm>
+  </project>
